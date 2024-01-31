@@ -11,8 +11,7 @@ Skyline High School Computer Programing 1-2
 ### SpaceGame
 OOF graphical game with sound and movement
 
-![Gameplay]((https://github.com/Sirpugington683/Programing-reposotory/files/14116217/helloWorld.png.zip)
-)
-
+![Gameplay]
 [Source Code]()
 
+[helloWorld.png.zip](https://github.com/Sirpugington683/Programing-reposotory/files/14116226/helloWorld.png.zip)
