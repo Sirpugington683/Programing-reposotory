@@ -6,6 +6,7 @@ Skyline High School Computer Programing 1-2
 
 ## Group Project (2023-2024)
 a text based adventure game
+![Gameplay]()
 [Source Code]([https://github.com/Sirpugington683/Programing-reposotory/files/14116280/zoogs.zip](https://replit.com/@9702029/OutstandingInsecureConnection))
 
 ## Individual Projects (2023-2024)
